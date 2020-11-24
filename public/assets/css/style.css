@@ -1,0 +1,31 @@
+body {
+    background-color: lightpink;
+    font-family: 'Fredoka One', cursive;
+}
+h1 {
+    margin-top: 3rem;
+    text-align: center;
+    font-size: 50px;
+}
+
+.row {
+    margin-top: 3rem;
+}
+
+#listed-burgers {
+    margin-left: 15rem;
+    margin-right: 15rem;
+}
+
+form {
+    text-align: center;
+}
+
+button {
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 6px;
+    background-color: lightsalmon;
+    float: left;
+    margin-right: 6px;
+}
