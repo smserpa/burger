@@ -12,8 +12,9 @@ Burger logger application created to gain experience creating a custom ORM, util
 
 1. Installation
 2. Usage
-3. License
-4. Contributions
+3. Deployed Application
+4. License
+5. Contributions
 
 ## Installation
 
@@ -29,6 +30,10 @@ To run the application locally enter the following command in terminal:
 ```
 npm start
 ```
+
+## Deployed Link
+
+[Eat-Da-Burger!](https://node-exp-burger-app.herokuapp.com/)
 
 ## License
 
