@@ -13,8 +13,10 @@ h1 {
 }
 
 #listed-burgers {
-    margin-left: 15rem;
-    margin-right: 15rem;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
 }
 
 form {
@@ -28,4 +30,5 @@ button {
     background-color: lightsalmon;
     float: left;
     margin-right: 6px;
+    display: inline-block;
 }
